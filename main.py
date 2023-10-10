@@ -24,7 +24,8 @@ def count_down(seconds):
         time.sleep(1)
     circle_bar.set_value(0)
     circle_bar.props('indeterminate')
-    stop_event.set()
+    count_down_text.text = '抽中你了喵！'
+    stop()
         
 roll_thread = None
 count_down_thread = None
