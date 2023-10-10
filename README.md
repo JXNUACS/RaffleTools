@@ -29,3 +29,4 @@
 
 ## Preview
 
+![image](https://github.com/JXNUACS/RaffleTools/assets/51751659/bc76791e-667e-47ba-9b41-760105fdd9f8)
